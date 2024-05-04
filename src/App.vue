@@ -102,38 +102,56 @@ export default {
       </div>
       <!-- Feature 2 -->
       <div class="flex items-center justify-center mt-8">
-        <div class="w-1/3">
+        <div class="w-1/2">
           <h3 class="text-xl font-semibold mb-2">Fitur 2</h3>
-          <p class="text-gray-600 text-lg">Deskripsi fitur 2</p>
+          <p class="text-gray-600 text-lg">
+            Pelajari Ratusan Skill Sekali Bayar. Praktik dan Bersertifikat
+            <br />✅ Belajar fleksibel via Video Materi, Bahan Bacaan, Project
+            dan Studi Kasus. <br />✅ Praktikal & Actionable. Bertahap dari
+            level Dasar hingga Lanjut <br />✅ Grup Komunitas Diskusi Lifetime.
+            Kelas Gratis Tiap Bulannya
+          </p>
         </div>
         <img
-          src="https://plus.unsplash.com/premium_photo-1666790327239-7cd2e098ec18?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D"
+          src="./assets/img/mentoring.png"
           alt="Feature 2"
-          class="w-1/3 h-auto rounded-lg ml-4"
+          class="object-contain w-1/3 h-auto rounded-lg ml-4"
         />
       </div>
       <!-- Feature 3 -->
-      <div class="flex items-center justify-center mt-8">
+      <div class="flex items-center justify-center">
         <img
-          src="https://plus.unsplash.com/premium_photo-1666790327239-7cd2e098ec18?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D"
-          alt="Feature 3"
-          class="w-1/4 h-auto rounded-lg mr-4"
+          src="./assets/img/e-learning.png"
+          alt="Feature 1"
+          class="object-contain w-1/3 h-auto rounded-lg mr-10"
         />
-        <div class="w-1/4">
-          <h3 class="text-lg font-semibold mb-2">Fitur 3</h3>
-          <p class="text-gray-600">Deskripsi fitur 3</p>
+        <div>
+          <h3 class="text-xl font-semibold mb-2">E-learning</h3>
+          <p class="text-gray-600 text-lg">
+            Pelajari Ratusan Skill Sekali Bayar. Praktik dan Bersertifikat
+            <br />✅ Belajar fleksibel via Video Materi, Bahan Bacaan, Project
+            dan Studi Kasus. <br />✅ Praktikal & Actionable. Bertahap dari
+            level Dasar hingga Lanjut <br />✅ Grup Komunitas Diskusi Lifetime.
+            Kelas Gratis Tiap Bulannya
+          </p>
         </div>
       </div>
       <!-- Feature 4 -->
       <div class="flex items-center justify-center mt-8">
-        <div class="w-1/4">
-          <h3 class="text-lg font-semibold mb-2">Fitur 4</h3>
-          <p class="text-gray-600">Deskripsi fitur 4</p>
+        <div class="w-1/2">
+          <h3 class="text-xl font-semibold mb-2">Fitur 4</h3>
+          <p class="text-gray-600 text-lg">
+            Pelajari Ratusan Skill Sekali Bayar. Praktik dan Bersertifikat
+            <br />✅ Belajar fleksibel via Video Materi, Bahan Bacaan, Project
+            dan Studi Kasus. <br />✅ Praktikal & Actionable. Bertahap dari
+            level Dasar hingga Lanjut <br />✅ Grup Komunitas Diskusi Lifetime.
+            Kelas Gratis Tiap Bulannya
+          </p>
         </div>
         <img
-          src="https://plus.unsplash.com/premium_photo-1666790327239-7cd2e098ec18?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D"
+          src="./assets/img/mentoring.png"
           alt="Feature 4"
-          class="w-1/4 h-auto rounded-lg ml-4"
+          class="object-contain w-1/3 h-auto rounded-lg ml-4"
         />
       </div>
     </div>
@@ -142,7 +160,9 @@ export default {
 
   <!-- disclosure -->
   <div class="w-full px-16 pt-20 mb-8">
-    <h2 class="text-4xl font-semibold text-center mb-8">Yang Sering ditanyakan</h2>
+    <h2 class="text-4xl font-semibold text-center mb-8">
+      Yang Sering ditanyakan
+    </h2>
     <div class="mx-auto max-w-6xl rounded-3xl bg-white p-6">
       <!-- 1 -->
       <Disclosure v-slot="{ open }">
