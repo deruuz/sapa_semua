@@ -3,18 +3,29 @@ import "./style.css";
 import App from "./App.vue";
 import { createRouter, createWebHistory } from "vue-router";
 import Home from "./Home.vue";
+import About from "./About.vue";
 import Course from "./Course.vue";
 
 const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
-      path: "/Home", // Tambahkan rute ini
+      path: '/',
+      name: 'DefaultHome',
+      component: Home,
+    },
+    {
+      path: "/Home",
       name: "Home",
       component: Home,
     },
     {
-      path: "/Course", // Tambahkan rute ini
+      path: "/About",
+      name: "About",
+      component: About,
+    },
+    {
+      path: "/Course",
       name: "Course",
       component: Course,
     },
