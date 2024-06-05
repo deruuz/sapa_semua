@@ -1,6 +1,7 @@
 <script>
 import Navbar from "./components/Navbar.vue";
 import Footer from "./components/Footer.vue";
+import Card from "./components/Card.vue";
 export default {
   components: {
     Navbar,
@@ -17,6 +18,9 @@ export default {
   ></div>
 
   <section class="py-16">
+    <div>
+      <h3 class="text-4xl font-semibold mb-2 ml-20">Materi Belajar</h3>
+    </div>
     <div class="flex ml-20 mr-20">
       <div
         class="m-4 max-w-xs bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 flex flex-col justify-center items-center"
@@ -155,6 +159,7 @@ export default {
           </a>
         </div>
       </div>
+
       <div
         class="m-4 max-w-xs bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 flex flex-col justify-center items-center"
       >
