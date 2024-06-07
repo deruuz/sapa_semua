@@ -64,12 +64,6 @@ export default {
             />
           </svg>
         </a>
-        <a
-          href="#"
-          class="animate-fade animate-delay-[1800ms] animate-ease-in inline-flex justify-center hover:text-gray-900 items-center py-3 px-5 sm:ms-4 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400"
-        >
-          Learn more
-        </a>
       </div>
     </div>
   </section>
@@ -228,9 +222,10 @@ export default {
           />
         </DisclosureButton>
         <DisclosurePanel class="px-6 pb-3 pt-6 text-lg text-gray-500">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis,
-          officiis qui? Quo incidunt adipisci sunt, molestias maiores nisi
-          fugiat recusandae.
+          Jika Anda tertarik untuk bekerja sama atau memiliki kendala yang perlu
+          diselesaikan, Anda bisa menghubungi kami melalui salah satu cara
+          berikut:<br />
+          Email: info@sapasemua.com & Telepon: +62 812 3456 7890
         </DisclosurePanel>
       </Disclosure>
     </div>

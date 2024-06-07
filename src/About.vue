@@ -21,7 +21,6 @@ export default {
   <section class="py-16">
     <div class="container mx-auto">
       <h2 class="text-4xl font-semibold text-center mb-8">Tentang Kami</h2>
-      <!-- Feature 1 -->
       <div class="flex items-center justify-center">
         <img
           src="./assets/img/mockup.png"
@@ -42,5 +41,5 @@ export default {
       </div>
     </div>
   </section>
-  <!-- end feature -->
+  <!-- end About -->
 </template>
