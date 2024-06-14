@@ -83,26 +83,26 @@ export default {
           class="object-contain w-1/3 h-auto rounded-lg mr-10"
         />
         <div>
-          <h3 class="text-xl font-semibold mb-2">E-learning</h3>
+          <h3 class="text-xl font-semibold mb-2">Kuis Seru</h3>
           <p class="text-gray-600 text-lg">
-            Pelajari Ratusan Skill Sekali Bayar. Praktik dan Bersertifikat
-            <br />✅ Belajar fleksibel via Video Materi, Bahan Bacaan, Project
-            dan Studi Kasus. <br />✅ Praktikal & Actionable. Bertahap dari
-            level Dasar hingga Lanjut <br />✅ Grup Komunitas Diskusi Lifetime.
-            Kelas Gratis Tiap Bulannya
+            ✅Tes kemampuan bahasa isyaratmu lewat kuis-kuis asik!<br />
+            ✅Tersedia Berbagai macam kuis sesuai dengan materi yang
+            dipelajari<br />
+            ✅Kamu bisa mengulang lagi kuis yang sudah pernah dikerjakan<br />
+            ✅Kamu bisa melihat nilai yang kamu dapatkan setelah mengerjakan
+            kuis<br />
           </p>
         </div>
       </div>
       <!-- Feature 2 -->
       <div class="flex items-center justify-center mt-8">
         <div class="w-1/2">
-          <h3 class="text-xl font-semibold mb-2">Fitur 2</h3>
+          <h3 class="text-xl font-semibold mb-2">Materi Video Keren</h3>
           <p class="text-gray-600 text-lg">
-            Pelajari Ratusan Skill Sekali Bayar. Praktik dan Bersertifikat
-            <br />✅ Belajar fleksibel via Video Materi, Bahan Bacaan, Project
-            dan Studi Kasus. <br />✅ Praktikal & Actionable. Bertahap dari
-            level Dasar hingga Lanjut <br />✅ Grup Komunitas Diskusi Lifetime.
-            Kelas Gratis Tiap Bulannya
+            ✅Kamu bisa lihat video-video yang bakal buat kamu paham gerakan
+            bahasa isyarat.<br />
+            ✅Video-video yang disediakan juga sangat mudah dipahami<br />
+            ✅Kamu bisa mengulang video-video yang sudah kamu tonton<br />
           </p>
         </div>
         <img
@@ -119,26 +119,23 @@ export default {
           class="object-contain w-1/3 h-auto rounded-lg mr-10"
         />
         <div>
-          <h3 class="text-xl font-semibold mb-2">E-learning</h3>
+          <h3 class="text-xl font-semibold mb-2">Translator</h3>
           <p class="text-gray-600 text-lg">
-            Pelajari Ratusan Skill Sekali Bayar. Praktik dan Bersertifikat
-            <br />✅ Belajar fleksibel via Video Materi, Bahan Bacaan, Project
-            dan Studi Kasus. <br />✅ Praktikal & Actionable. Bertahap dari
-            level Dasar hingga Lanjut <br />✅ Grup Komunitas Diskusi Lifetime.
-            Kelas Gratis Tiap Bulannya
+            ✅Kamu bisa terjemahin gerakan bahasa isyarat jadi teks<br />
+            ✅Terjemahkan bahasa isyarat ke bahasa lisan untuk komunikasi lebih
+            luas.<br />
           </p>
         </div>
       </div>
       <!-- Feature 4 -->
       <div class="flex items-center justify-center mt-8">
         <div class="w-1/2">
-          <h3 class="text-xl font-semibold mb-2">Fitur 4</h3>
+          <h3 class="text-xl font-semibold mb-2">Forum Komunitas</h3>
           <p class="text-gray-600 text-lg">
-            Pelajari Ratusan Skill Sekali Bayar. Praktik dan Bersertifikat
-            <br />✅ Belajar fleksibel via Video Materi, Bahan Bacaan, Project
-            dan Studi Kasus. <br />✅ Praktikal & Actionable. Bertahap dari
-            level Dasar hingga Lanjut <br />✅ Grup Komunitas Diskusi Lifetime.
-            Kelas Gratis Tiap Bulannya
+            ✅Di sini kamu bisa sharing, dan diskusi bareng teman-teman yang
+            juga suka bahasa isyarat. <br />
+            ✅Kamu bisa tanya jawab dengan teman-teman yang lain.<br />
+            ✅Kamu bisa sharing pengalaman kamu dalam belajar bahasa isyarat.<br />
           </p>
         </div>
         <img
@@ -186,9 +183,11 @@ export default {
           />
         </DisclosureButton>
         <DisclosurePanel class="px-6 pb-3 pt-6 text-lg text-gray-500">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat,
-          molestiae quibusdam nemo velit earum quam soluta optio eius
-          consectetur cumque.
+          Platform pembelajaran bahasa isyarat yang menyenangkan. Nikmati kuis,
+          materi video, dan terjemahan instan. Bergabunglah dengan komunitas,
+          pantau progress belajar, dan dapatkan sertifikat. Gratis dan fleksibel
+          untuk belajar di mana saja, kapan saja. Mulai belajar bahasa isyarat
+          dengan Sapa Semua hari ini!
         </DisclosurePanel>
       </Disclosure>
       <!-- 3 -->
