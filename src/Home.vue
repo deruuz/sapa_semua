@@ -114,9 +114,9 @@ export default {
       <!-- Feature 3 -->
       <div class="flex items-center justify-center">
         <img
-          src="./assets/img/e-learning.png"
+          src="./assets/img/translator.png"
           alt="Feature 1"
-          class="object-contain w-1/3 h-auto rounded-lg mr-10"
+          class="object-contain w-1/4 h-auto rounded-lg mr-10"
         />
         <div>
           <h3 class="text-xl font-semibold mb-2">Translator</h3>
@@ -139,7 +139,7 @@ export default {
           </p>
         </div>
         <img
-          src="./assets/img/mentoring.png"
+          src="./assets/img/Komunitas.png"
           alt="Feature 4"
           class="object-contain w-1/3 h-auto rounded-lg ml-4"
         />
