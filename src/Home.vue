@@ -44,7 +44,9 @@ export default {
         class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0"
       >
         <a
-          href="#"
+          href="https://drive.google.com/file/d/1hxvWs0heOP7EofgqS6AnmBrslwzUjMpz/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
           class="animate-fade animate-delay-[1800ms] animate-ease-in inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
         >
           Get started

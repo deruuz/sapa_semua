@@ -25,11 +25,11 @@ export default {
         <img
           src="./assets/img/mockup.png"
           alt="Feature 1"
-          class="object-contain w-1/3 h-auto rounded-lg mr-10"
+          class="object-contain w-1/3 h-auto rounded-lg ml-40 mr-10"
         />
         <div>
           <h3 class="text-xl font-semibold mb-2">Tentang kami</h3>
-          <p class="text-gray-600 text-lg">
+          <p class="text-gray-600 text-lg mr-20">
             Kami adalah aplikasi pembelajaran bahasa isyarat dengan menggunakan
             kecerdasan buatan (AI). Kami menyediakan berbagai materi dan latihan
             untuk membantu pengguna belajar bahasa isyarat dengan mudah dan
