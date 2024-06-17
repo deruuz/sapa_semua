@@ -78,9 +78,9 @@ export default {
       <!-- Feature 1 -->
       <div class="flex items-center justify-center">
         <img
-          src="./assets/img/e-learning.png"
+          src="./assets/img/kuis.png"
           alt="Feature 1"
-          class="object-contain w-1/3 h-auto rounded-lg mr-10"
+          class="object-contain w-1/5 h-auto rounded-lg mr-10"
         />
         <div>
           <h3 class="text-xl font-semibold mb-2">Kuis Seru</h3>
@@ -106,15 +106,15 @@ export default {
           </p>
         </div>
         <img
-          src="./assets/img/mentoring.png"
+          src="./assets/img/video.png"
           alt="Feature 2"
-          class="object-contain w-1/3 h-auto rounded-lg ml-4"
+          class="object-contain w-1/5 h-auto rounded-lg ml-4"
         />
       </div>
       <!-- Feature 3 -->
       <div class="flex items-center justify-center">
         <img
-          src="./assets/img/translator.png"
+          src="./assets/img/translate.png"
           alt="Feature 1"
           class="object-contain w-1/4 h-auto rounded-lg mr-10"
         />
@@ -139,9 +139,9 @@ export default {
           </p>
         </div>
         <img
-          src="./assets/img/Komunitas.png"
+          src="./assets/img/forum.png"
           alt="Feature 4"
-          class="object-contain w-1/3 h-auto rounded-lg ml-4"
+          class="object-contain w-1/6 h-auto rounded-lg ml-4"
         />
       </div>
     </div>
