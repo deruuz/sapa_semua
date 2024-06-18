@@ -72,7 +72,9 @@
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
               <li class="mb-4">
                 <a
-                  href="https://github.com/themesberg/flowbite"
+                  href="https://github.com/deruuz/sapa_semua"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="hover:underline"
                   >Github</a
                 >
@@ -87,10 +89,22 @@
             </h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
               <li class="mb-4">
-                <a href="#" class="hover:underline">Android</a>
+                <a
+                  href="https://drive.google.com/file/d/1hxvWs0heOP7EofgqS6AnmBrslwzUjMpz/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover:underline"
+                  >Android</a
+                >
               </li>
               <li>
-                <a href="#" class="hover:underline">IOS</a>
+                <a
+                  href="https://drive.google.com/file/d/1hxvWs0heOP7EofgqS6AnmBrslwzUjMpz/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover:underline"
+                  >IOS</a
+                >
               </li>
             </ul>
           </div>
@@ -101,9 +115,8 @@
       />
       <div class="sm:flex sm:items-center sm:justify-between">
         <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400"
-          >© 2024
-          <a href="#" class="hover:underline">SAPASEMUA</a>.
-          All Rights Reserved.
+          >© 2024 <a href="#" class="hover:underline">SAPASEMUA</a>. All Rights
+          Reserved.
         </span>
       </div>
     </div>
