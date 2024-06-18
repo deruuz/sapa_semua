@@ -1,11 +1,5 @@
 <script>
-import Navbar from "./components/Navbar.vue";
-import Footer from "./components/Footer.vue";
 export default {
-  components: {
-    Navbar,
-    Footer,
-  },
   mounted() {
     let text = new SplitType("#moto");
     let characters = document.querySelectorAll(".char");
