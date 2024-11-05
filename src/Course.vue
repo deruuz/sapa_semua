@@ -83,7 +83,7 @@
         <a href="#">
           <img
             class="rounded-t-lg w-60 h-auto"
-            src="./assets/img/angka.png"
+            src="./assets/img/Angka.png"
             alt=""
           />
         </a>
